@@ -30,7 +30,7 @@ To get started with GreenSynergy Hub, follow these steps:
 
 2. **Navigate to the Project Directory:** Change directory to the project folder:
     ```bash
-    cd greensynergy-hub
+    cd GreenSynergy-Hub
     ```
 
 3. **Install Dependencies:** Install the necessary dependencies by running:
