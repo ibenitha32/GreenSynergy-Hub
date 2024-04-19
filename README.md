@@ -8,7 +8,6 @@ GreenSynergy Hub is a digital platform dedicated to environmental stewardship an
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Welcome to GreenSynergy Hub, your destination for all things related to environmental conservation and sustainability. Our website provides valuable resources, insightful articles, and actionable steps to promote a greener future for Africa and beyond.
@@ -28,6 +27,3 @@ Feel free to browse through our content, read our articles, and engage with our 
 
 ## Contributing
 We welcome contributions from individuals who are passionate about environmental issues and want to make a positive impact. Whether you're an expert in a specific field or simply have valuable insights to share, we encourage you to get involved. Please refer to our [Contribution Guidelines](#) for more information on how to contribute.
-
-## License
-This project is licensed under the [MIT License](#). Feel free to use and modify the code for your own purposes, subject to the terms and conditions of the license.
